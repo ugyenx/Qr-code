@@ -6,7 +6,7 @@ This project helps practice basic layout, centering techniques, and card-style d
 ![Project Screenshot](./preview.jpg)
 
 ## 🚀 Live Demo
-👉 [View Live]
+👉 [View Live] https://qr-code-ebon-kappa.vercel.app/
 
 ---
 
